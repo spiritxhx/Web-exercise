@@ -1,0 +1,22 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "\"This is a test to learn Git and Node\"",
+  "main": "1.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiritxhx/web-exercise.git"
+  },
+  "author": "spiritxhx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiritxhx/web-exercise/issues"
+  },
+  "homepage": "https://github.com/spiritxhx/web-exercise#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
